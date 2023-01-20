@@ -1,0 +1,15 @@
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\COnsoleUCSF.csproj.AssemblyReference.cache
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\COnsoleUCSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\COnsoleUCSF.AssemblyInfoInputs.cache
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\COnsoleUCSF.AssemblyInfo.cs
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\COnsoleUCSF.csproj.CoreCompileInputs.cache
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\bin\Debug\net6.0\COnsoleUCSF.exe
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\bin\Debug\net6.0\COnsoleUCSF.deps.json
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\bin\Debug\net6.0\COnsoleUCSF.runtimeconfig.json
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\bin\Debug\net6.0\COnsoleUCSF.dll
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\bin\Debug\net6.0\COnsoleUCSF.pdb
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\COnsoleUCSF.dll
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\refint\COnsoleUCSF.dll
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\COnsoleUCSF.pdb
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\COnsoleUCSF.genruntimeconfig.cache
+C:\GithubRepo\ditnetconsole\COnsoleUCSF\obj\Debug\net6.0\ref\COnsoleUCSF.dll
